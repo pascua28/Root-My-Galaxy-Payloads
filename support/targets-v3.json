@@ -306,7 +306,7 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/r12s-S721BXXSCDZF3/cve-2026-43499-app.so",
-        "size": 104128
+        "size": 140520
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-samsung-android14-6.1-kdp",
